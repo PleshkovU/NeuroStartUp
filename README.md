@@ -1,4 +1,8 @@
+''' css
+
 # NeuroStartUp
+
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
 *NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного интеллекта.
 
@@ -10,7 +14,7 @@
 
 * Низкая цена
 
-![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+
 
 Мы на столько крутые, что уже успели поработать со следующими компаниями:
 
